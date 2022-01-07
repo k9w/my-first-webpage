@@ -1,4 +1,4 @@
-# _Our first HTML Repo with Epicodus_
+# _Our first site with HTML & CSS at Epicodus_
 
 #### By _**Brenna Lavin**_ and _**Kevin Williams**_
 
