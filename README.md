@@ -16,8 +16,8 @@
 _This is the first HTML page we made as students at
 [Epicodus](https://epicodus.com). We worked [the assignment for this
 page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/html-inline-elements-and-attributes-strong-em-img-a-and-more)
-from [our curriculum](https://learnhowtoprogram.com) on Monday
-January 2022. The index.html, README, LICENSE, and Github Pages
+from [our curriculum](https://learnhowtoprogram.com) on Tuesday
+January 4th 2022. The index.html, README, LICENSE, and Github Pages
 deployment were added later that week. You can find more of our work
 at:_
 
